@@ -6,5 +6,3 @@
   <img height="150" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Archlinux-logo-standard-version.png"  />
 </div>
 
-<h5 align="left">INFO DE MI ARCHLINUX </h5>
-<h6 align="left">OS: ARCHLINUX<br>KERNEL: LINUX-ZEN<br>SHELL: ZSH<br>DE: HYPERLAND<br>TERMINAL: KITTY</h6>
