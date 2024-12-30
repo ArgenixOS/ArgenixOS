@@ -26,6 +26,10 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
 </div>
+
+<h6 align="left">SOPORTE:</h3>
+<p><a href="https://ko-fi.com/joearch"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="200" alt="joearch" /></a></p><br><br>
+
   
 
 
