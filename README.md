@@ -19,3 +19,10 @@
   <a href="https://ko-fi.com/joearch" target="_blank">
    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  /
 </div>
+<div align="LEFT">
+  <a href="https://open.spotify.com/user/JoeAchV">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=JoeAchV&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
